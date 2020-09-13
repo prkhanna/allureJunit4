@@ -1,0 +1,4 @@
+# Created at 2020-09-09T16:30:35.965
+Boot Manifest-JAR contains absolute paths in classpath 'F:\RestAssured\AllureJunit4\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
